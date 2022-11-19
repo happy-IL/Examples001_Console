@@ -1,0 +1,15 @@
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Example005_ifElseCondition/obj/Debug/net6.0/Example005_ifElseCondition.csproj.AssemblyReference.cache
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Example005_ifElseCondition/obj/Debug/net6.0/Example005_ifElseCondition.GeneratedMSBuildEditorConfig.editorconfig
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Example005_ifElseCondition/obj/Debug/net6.0/Example005_ifElseCondition.AssemblyInfoInputs.cache
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Example005_ifElseCondition/obj/Debug/net6.0/Example005_ifElseCondition.AssemblyInfo.cs
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Example005_ifElseCondition/obj/Debug/net6.0/Example005_ifElseCondition.csproj.CoreCompileInputs.cache
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Example005_ifElseCondition/bin/Debug/net6.0/Example005_ifElseCondition
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Example005_ifElseCondition/bin/Debug/net6.0/Example005_ifElseCondition.deps.json
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Example005_ifElseCondition/bin/Debug/net6.0/Example005_ifElseCondition.runtimeconfig.json
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Example005_ifElseCondition/bin/Debug/net6.0/Example005_ifElseCondition.dll
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Example005_ifElseCondition/bin/Debug/net6.0/Example005_ifElseCondition.pdb
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Example005_ifElseCondition/obj/Debug/net6.0/Example005_ifElseCondition.dll
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Example005_ifElseCondition/obj/Debug/net6.0/refint/Example005_ifElseCondition.dll
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Example005_ifElseCondition/obj/Debug/net6.0/Example005_ifElseCondition.pdb
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Example005_ifElseCondition/obj/Debug/net6.0/Example005_ifElseCondition.genruntimeconfig.cache
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Example005_ifElseCondition/obj/Debug/net6.0/ref/Example005_ifElseCondition.dll
