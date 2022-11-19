@@ -1,0 +1,15 @@
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Example 006_Base/obj/Debug/net6.0/Example 006_Base.csproj.AssemblyReference.cache
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Example 006_Base/obj/Debug/net6.0/Example 006_Base.GeneratedMSBuildEditorConfig.editorconfig
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Example 006_Base/obj/Debug/net6.0/Example 006_Base.AssemblyInfoInputs.cache
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Example 006_Base/obj/Debug/net6.0/Example 006_Base.AssemblyInfo.cs
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Example 006_Base/obj/Debug/net6.0/Example 006_Base.csproj.CoreCompileInputs.cache
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Example 006_Base/bin/Debug/net6.0/Example 006_Base
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Example 006_Base/bin/Debug/net6.0/Example 006_Base.deps.json
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Example 006_Base/bin/Debug/net6.0/Example 006_Base.runtimeconfig.json
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Example 006_Base/bin/Debug/net6.0/Example 006_Base.dll
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Example 006_Base/bin/Debug/net6.0/Example 006_Base.pdb
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Example 006_Base/obj/Debug/net6.0/Example 006_Base.dll
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Example 006_Base/obj/Debug/net6.0/refint/Example 006_Base.dll
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Example 006_Base/obj/Debug/net6.0/Example 006_Base.pdb
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Example 006_Base/obj/Debug/net6.0/Example 006_Base.genruntimeconfig.cache
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Example 006_Base/obj/Debug/net6.0/ref/Example 006_Base.dll
