@@ -1,0 +1,15 @@
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Examples011_Array/bin/Debug/net6.0/Examples011_Array
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Examples011_Array/bin/Debug/net6.0/Examples011_Array.deps.json
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Examples011_Array/bin/Debug/net6.0/Examples011_Array.runtimeconfig.json
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Examples011_Array/bin/Debug/net6.0/Examples011_Array.dll
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Examples011_Array/bin/Debug/net6.0/Examples011_Array.pdb
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Examples011_Array/obj/Debug/net6.0/Examples011_Array.csproj.AssemblyReference.cache
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Examples011_Array/obj/Debug/net6.0/Examples011_Array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Examples011_Array/obj/Debug/net6.0/Examples011_Array.AssemblyInfoInputs.cache
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Examples011_Array/obj/Debug/net6.0/Examples011_Array.AssemblyInfo.cs
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Examples011_Array/obj/Debug/net6.0/Examples011_Array.csproj.CoreCompileInputs.cache
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Examples011_Array/obj/Debug/net6.0/Examples011_Array.dll
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Examples011_Array/obj/Debug/net6.0/refint/Examples011_Array.dll
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Examples011_Array/obj/Debug/net6.0/Examples011_Array.pdb
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Examples011_Array/obj/Debug/net6.0/Examples011_Array.genruntimeconfig.cache
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Examples011_Array/obj/Debug/net6.0/ref/Examples011_Array.dll

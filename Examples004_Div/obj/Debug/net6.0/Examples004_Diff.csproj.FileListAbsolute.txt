@@ -1,0 +1,15 @@
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Examples004_Diff/obj/Debug/net6.0/Examples004_Diff.csproj.AssemblyReference.cache
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Examples004_Diff/obj/Debug/net6.0/Examples004_Diff.GeneratedMSBuildEditorConfig.editorconfig
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Examples004_Diff/obj/Debug/net6.0/Examples004_Diff.AssemblyInfoInputs.cache
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Examples004_Diff/obj/Debug/net6.0/Examples004_Diff.AssemblyInfo.cs
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Examples004_Diff/obj/Debug/net6.0/Examples004_Diff.csproj.CoreCompileInputs.cache
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Examples004_Diff/bin/Debug/net6.0/Examples004_Diff
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Examples004_Diff/bin/Debug/net6.0/Examples004_Diff.deps.json
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Examples004_Diff/bin/Debug/net6.0/Examples004_Diff.runtimeconfig.json
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Examples004_Diff/bin/Debug/net6.0/Examples004_Diff.dll
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Examples004_Diff/bin/Debug/net6.0/Examples004_Diff.pdb
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Examples004_Diff/obj/Debug/net6.0/Examples004_Diff.dll
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Examples004_Diff/obj/Debug/net6.0/refint/Examples004_Diff.dll
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Examples004_Diff/obj/Debug/net6.0/Examples004_Diff.pdb
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Examples004_Diff/obj/Debug/net6.0/Examples004_Diff.genruntimeconfig.cache
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Examples004_Diff/obj/Debug/net6.0/ref/Examples004_Diff.dll
