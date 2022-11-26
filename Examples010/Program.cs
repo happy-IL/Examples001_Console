@@ -1,16 +1,16 @@
-﻿int [] array = { 1, 12, 31, 4, 15, 16, 17, 19};
+﻿int [] array = { 1, 12, 31, 4, 15, 15, 16, 17, 19 };
 
-int n = array.Lenght;
+int n = array.Length;
 int find = 4;
 
-ind index = 0;
+int index = 0;
 
 while (index < n)
 {
 
     if(array[index] == find)
     {
-        Console.Writeline(index);
+        Console.WriteLine(index);
         break;
     }
     //index = index + 1;
