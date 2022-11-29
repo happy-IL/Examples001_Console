@@ -1,0 +1,15 @@
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples 014/bin/Debug/net6.0/Examples 014
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples 014/bin/Debug/net6.0/Examples 014.deps.json
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples 014/bin/Debug/net6.0/Examples 014.runtimeconfig.json
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples 014/bin/Debug/net6.0/Examples 014.dll
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples 014/bin/Debug/net6.0/Examples 014.pdb
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples 014/obj/Debug/net6.0/Examples 014.csproj.AssemblyReference.cache
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples 014/obj/Debug/net6.0/Examples 014.GeneratedMSBuildEditorConfig.editorconfig
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples 014/obj/Debug/net6.0/Examples 014.AssemblyInfoInputs.cache
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples 014/obj/Debug/net6.0/Examples 014.AssemblyInfo.cs
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples 014/obj/Debug/net6.0/Examples 014.csproj.CoreCompileInputs.cache
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples 014/obj/Debug/net6.0/Examples 014.dll
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples 014/obj/Debug/net6.0/refint/Examples 014.dll
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples 014/obj/Debug/net6.0/Examples 014.pdb
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples 014/obj/Debug/net6.0/Examples 014.genruntimeconfig.cache
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples 014/obj/Debug/net6.0/ref/Examples 014.dll

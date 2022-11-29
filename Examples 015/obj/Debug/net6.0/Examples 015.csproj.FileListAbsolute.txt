@@ -1,0 +1,5 @@
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Examples 015/obj/Debug/net6.0/Examples 015.csproj.AssemblyReference.cache
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Examples 015/obj/Debug/net6.0/Examples 015.GeneratedMSBuildEditorConfig.editorconfig
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Examples 015/obj/Debug/net6.0/Examples 015.AssemblyInfoInputs.cache
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Examples 015/obj/Debug/net6.0/Examples 015.AssemblyInfo.cs
+/Users/happy_il/Documents/GK/Введение в курс языки программирования/Examples/Examples 015/obj/Debug/net6.0/Examples 015.csproj.CoreCompileInputs.cache
